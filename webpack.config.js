@@ -7,7 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist/js'),
     publicPath: '/dist/',
     filename: 'progress.js',
-    library: 'circular-progress-vue',
+    library: 'circular-progress',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },

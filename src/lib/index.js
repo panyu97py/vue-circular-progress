@@ -2,7 +2,7 @@ import Progress from './progress.vue'
 
 const progress={
   install:function (Vue) {
-    Vue.component('progress',Progress)
+    Vue.component('circularProgress',Progress)
   }
 };
 // 这里的判断很重要
