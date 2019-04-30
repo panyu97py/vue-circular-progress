@@ -1,7 +1,7 @@
 {
   "name": "circular-progress-vue",
   "description": "A Vue.js project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "luyu <panyupy@vip.qq.com>",
   "license": "MIT",
   "private": false,
